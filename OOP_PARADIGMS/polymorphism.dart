@@ -2,7 +2,7 @@
 The Animal class is the base class with a method makeSound.
 The Dog and Cat classes are derived classes that override the makeSound method with their own implementations.
 In the main function, instances of Animal, Dog, and Cat are created.
-The makeSound method is called on each object, demonstrating polymorphism as the appropriate version of the method is invoked based on the actual type of the object.
+The makeSound method is called on each object, demonstrating polymorphism as the appropriate version of the method is invoked based on the actual type of the object.g
 */
 
 class Animal{
